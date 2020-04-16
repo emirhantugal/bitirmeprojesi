@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29345308345",
+    "firebase_url": "https://yemek-list-4b512.firebaseio.com",
+    "project_id": "yemek-list-4b512",
+    "storage_bucket": "yemek-list-4b512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29345308345:android:b122e4e5038cf274908568",
+        "android_client_info": {
+          "package_name": "com.example.son"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29345308345-lkt26i3ulpkpnktrotg7k6dudd9f41um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ymP-Tu00YSzLbnkhZLWyiZtEhsR3E0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29345308345-lkt26i3ulpkpnktrotg7k6dudd9f41um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

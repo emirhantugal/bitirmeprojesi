@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F2FF0A</color>
+    <color name="colorPrimaryDark">#e5e600</color>
+    <color name="colorAccent">#000000</color>
+    <color name="btnred">#9f0000</color>
+    <color name="kirmizi">#FF0000</color>
+    <color name="succesGreen">#08FF00</color>
+    <color name="email">#474747</color>
+    <color name="beyaz">#FFFFFF</color>
+
+
+
+
+</resources>
